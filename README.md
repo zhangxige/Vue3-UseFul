@@ -1,4 +1,9 @@
-# Vue3-UseFul
+<div align="center">
+  <img alt="logo" width="2600" height="180" src="./images/title.jpeg">
+  <h1>Vue3-UseFul</h1>
+</div>
+
+![Generic badge](https://img.shields.io/badge/npm-22.01-blue.svg) ![Generic badge](https://img.shields.io/badge/Javascript-red.svg)  ![Generic badge](https://img.shields.io/badge/Typescript-green.svg)
 
 ## Notifications
 > [!IMPORTANT]
